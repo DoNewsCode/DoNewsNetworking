@@ -8,7 +8,7 @@
 
 #import "DNNetworkManager+SSL.h"
 #import "DNNetworkPrivate.h"
-
+#import "AFNetworking.h"
 #define  kHttpsP12Password @"donews"
 #define  kHttpsServiceCer  @"server"
 #define  kHttpsClientP12   @"client"

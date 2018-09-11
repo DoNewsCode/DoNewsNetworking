@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DoNewsNetworking"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "针对一些需求对AFNetworking进行封装"
 
   # This description is used to generate tags and improve search results.
@@ -94,7 +94,7 @@ Pod::Spec.new do |s|
   s.source_files  = "DoNewsNetworking", "DoNewsNetworking/**/*"
   s.exclude_files = "Classes/Exclude"
 
-s.public_header_files = "DoNewsNetworking/Supporting Files/*.h"
+  # s.public_header_files = "DoNewsNetworking/Supporting Files/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

@@ -7,8 +7,9 @@
 //
 
 #import "DNNetworkManager.h"
-#import "AFNetworking.h"
 
+@class AFURLSessionManager;
+@class AFSecurityPolicy;
 @interface DNNetworkManager (SSL)
 
 + (AFSecurityPolicy*)customSecurityPolicy;
