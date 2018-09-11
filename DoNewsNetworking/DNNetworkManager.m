@@ -7,8 +7,8 @@
 //
 
 #import "DNNetworkManager.h"
-#import <AFNetworking.h>
-#import <AFNetworkActivityIndicatorManager.h>
+#import "AFNetworking.h"
+#import "AFNetworkActivityIndicatorManager.h"
 #import "DNNetworkMacro.h"
 #import "DNNetworkPrivate.h"
 #import "DNNetworkManager+SSL.h"

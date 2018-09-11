@@ -7,7 +7,7 @@
 //
 
 #import "DNNetworkCache.h"
-#import <YYCache.h>
+#import "YYCache.h"
 
 @implementation DNNetworkCache
 

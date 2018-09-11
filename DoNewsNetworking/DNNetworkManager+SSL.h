@@ -7,7 +7,7 @@
 //
 
 #import "DNNetworkManager.h"
-#import <AFNetworking.h>
+#import "AFNetworking.h"
 
 @interface DNNetworkManager (SSL)
 
